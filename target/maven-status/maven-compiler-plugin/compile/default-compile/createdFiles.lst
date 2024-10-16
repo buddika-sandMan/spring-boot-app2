@@ -1,0 +1,7 @@
+edu\icet\crm\entity\StudentEntity.class
+edu\icet\crm\repository\StudentRepository.class
+edu\icet\crm\dto\Student.class
+edu\icet\crm\controller\StudentController.class
+edu\icet\crm\Main.class
+edu\icet\crm\service\StudentServiceImpl.class
+edu\icet\crm\service\StudentService.class
